@@ -6,6 +6,7 @@ public class Hello {
 		System.out.println("Say Hello Git yop yop");
 		System.out.println("Une petite danse??");
 		System.out.println("Vive la Guadeloupe! Vive le soleil! Vive les beaux gosses!");
+		System.out.println("Avec plaisir ma belle");
 
 	}
 
